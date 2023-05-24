@@ -1,6 +1,13 @@
 # Gradle project template collection
 
 
+If you want to create a project in Gradle, you can use `gradle init` to easily create a project.
+
+However, the project created with `gradle init` is not good enough to start using as is, because it lacks `.gitignore` entries(for example, `.DS_Store` is not excluded) or does not contain `.editorconfig`.
+
+
+
+
 | name                                      | description                                                  |
 |-------------------------------------------|--------------------------------------------------------------|
 | [java-library](java-library/)             | Simple java library project template                         |
