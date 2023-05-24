@@ -8,4 +8,5 @@ dependencies {
 
 application {
     mainClass.set("com.example.app.App")
+    mainModule.set("example.app")
 }
