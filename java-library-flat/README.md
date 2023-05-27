@@ -1,2 +1,2 @@
-# Gradle simple java library project template
+# Gradle java library flat layout project template
 
