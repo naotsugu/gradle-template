@@ -1,4 +1,4 @@
-module com.example {
+module org.example {
     //requires java.io;
-    exports com.example;
+    exports org.example;
 }
